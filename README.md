@@ -9,6 +9,8 @@ Teknologi yang Digunakan
 - React: Library JavaScript untuk membangun antarmuka pengguna berbasis komponen.
 - Tailwind CSS: Framework CSS utility-first untuk styling yang cepat dan responsif.
 - JavaScript (ES6): Digunakan untuk logika aplikasi.
+
+  
 Fitur
 - Tambah catatan baru.
 - Tampilkan daftar catatan.
